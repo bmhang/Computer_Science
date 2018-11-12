@@ -1,2 +1,2 @@
-# Computer_Science
+# Computer_Science_Git
 Computer Science documents
